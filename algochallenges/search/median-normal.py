@@ -1,9 +1,3 @@
-#!/bin/python
-
-
-
-# code snippet for illustrating input/output
-
 N = int(raw_input())
 
 s = []
